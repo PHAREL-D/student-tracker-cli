@@ -1,0 +1,13 @@
+# Fichiers Python compilés (cache)
+__pycache__/
+
+# Fichiers système Windows
+Thumbs.db
+Desktop.ini
+
+# Fichiers système macOS
+.DS_Store
+
+# Fichiers de données locales (optionnel)
+# Décommente la ligne ci-dessous si tu ne veux pas partager ton fichier de données
+# etudiants.json
