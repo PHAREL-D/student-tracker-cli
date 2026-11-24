@@ -30,11 +30,19 @@ It allows users to perform CRUD operations, manage grades, calculate averages, a
 
 ### Installation & Usage
 
-1.  **Clone the repository:**
+1.  Clone the repository:
+bash
 
-2.  **Run the application:**
+git clone https://github.com/PHAREL-D/student-tracker-cli
 
-*(Note: Ensure the script name matches your Python file, e.g., `student_manager.py`)*
+cd student-tracker-cli
+
+2.  Run the application:
+bash
+
+python student_manager.py
+
+(Note: Ensure the script name matches your Python file, e.g., `student_manager.py`)
 
 3.  **Interact with the Menu:**
 The application will launch in your terminal. Simply enter the number corresponding to the action you want to perform (1-9).
